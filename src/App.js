@@ -1,6 +1,6 @@
 import React from 'react';
-import Button from 'antd/es/button';
-import './App.css';
+import { Button } from 'antd';
+import './App.less';
 
 function App() {
     return (
